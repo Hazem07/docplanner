@@ -1,0 +1,224 @@
+.ttt{display: flex ;
+    justify-content: space-around;
+    position: fixed;
+    background-color: white;
+    padding: 0.5em;
+    
+}
+.logo-docplanner{
+    width: 25%;
+}
+.main-menu{
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
+    list-style:none;
+}
+
+.image{
+    width: 2.5%;
+}
+.pp{
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
+    line-break: unset;
+    
+    
+}
+.abc{
+    justify-content: space-between;
+    align-content: center;
+    text-align: center;
+    padding-top: 10%;
+    
+
+}
+.bbb{
+    display: flex;
+    align-items: center;
+    padding-bottom: 2.5%;
+    padding-top: 2.5%;
+    justify-content: space-around;
+    margin: 5em;
+    
+}
+.vvv{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3.5em;
+    margin-bottom: 3.5em;
+    
+}
+.SSS{
+    background: #00ccb1;
+    width: 345px;
+        border: 2px solid  #00ccb1;
+        padding: 10px;
+        border-radius: 12.5px;
+    padding: 2em 2em 0;
+    width: 22.5%;
+}
+.EEE{
+    background: #3d83df;
+    width: 345px;
+        border: 2px solid  #3d83df;
+        padding: 10px;
+        border-radius: 12.5px;
+    padding: 2em 2em 0;
+    width: 22.5%;
+}
+
+.RRR{
+    
+    background: #1b2734;
+    width: 345px;
+        border: 2px solid  #1b2734;
+        padding: 10px;
+        border-radius: 12.5px;
+    padding: 2em 2em 0;
+    width: 22.5%;
+
+}
+.HHH{
+    margin-top: 5em;
+    margin-bottom: 3em;
+    position: relative;
+    vertical-align: middle;
+    outline: 0;
+    background: none;
+    border: 0;
+    color: #fff;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 1.2rem;
+    text-align: center;
+    
+    
+}
+.GGG{
+    margin-top: 5em;
+    margin-bottom: 3em;
+    position: relative;
+   
+    vertical-align: middle;
+    outline: 0;
+    background: none;
+    border: 0;
+    color: #fff;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 1.2rem;
+    text-align: center;
+}
+    .MMM{
+        margin: 3.5%;
+        position: relative;
+    
+    vertical-align: middle;
+    outline: 0;
+    background: none;
+    border: 0;
+    color: #fff;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 1.2rem;
+    text-align: center;
+    }
+    .LLL{
+        margin:3.5%;
+        position: relative;
+    
+    vertical-align: middle;
+    outline: 0;
+    background: none;
+    border: 0;
+    color: #fff;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    letter-spacing: .04em;
+    font-size: 1.2rem;
+    text-align: center;
+    }
+.brands__logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 0;
+    width: 60%;
+    list-style: none;
+    justify-content: space-between;
+}
+.nnn{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin: 5em;
+   width: 90%;
+   
+    
+    
+}
+.brands__logos .tuotempo {
+    width: 175px;
+}
+.brands__logos .gipo {
+    width: 85px;
+}
+.brands__logos .clinicloud {
+    width: 90px;
+}
+.brands {
+    margin: 2.5rem auto 3.125rem;
+}
+   
+.section__inner {
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;}
+    .lml{
+        text-align:center;
+        
+        padding-bottom: 6%;
+        
+    }
+    .POPO{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin: 5em;
+        
+        
+    }
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-left: 1em;
+        margin-right: 1em;
+        margin-top: 1em;  
+          
+    }
+    .mpl{
+        padding: 0.25em;
+       
+    }
+    .xxxw{
+        text-align:center;
+        
+        padding-bottom: 6%;
+    }
+
+.poi{
+    text-align:center;
+        
+        padding-top: 6%;
+        color: gray;
+
+}
+  
